@@ -7,7 +7,7 @@ import pandas as pd
 import pickle
 
 base_path = ""
-model_path =" model.h5"
+model_path ="model.h5"
 onehot_encoder_path = os.path.join(base_path, "onehot_encoder_geo.pkl")
 label_encoder_path = os.path.join(base_path, "label_encoder_gender.pkl")
 scaler_path = os.path.join(base_path, "scaler.pkl")
