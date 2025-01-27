@@ -1,0 +1,14 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+memory_profiler
+flask
+streamlit
+nltk
+tensorflow==2.15.0
+tensorboard
+scikit-learn
+
+
