@@ -6,8 +6,8 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder,OneHotEncoder
 import pandas as pd
 import pickle
 
-base_path = "D:/GenAI/ANN classification"
-model_path = os.path.join(base_path, "model.h5")
+base_path = ""
+model_path =" model.h5"
 onehot_encoder_path = os.path.join(base_path, "onehot_encoder_geo.pkl")
 label_encoder_path = os.path.join(base_path, "label_encoder_gender.pkl")
 scaler_path = os.path.join(base_path, "scaler.pkl")
